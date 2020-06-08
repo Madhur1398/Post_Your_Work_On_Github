@@ -15,5 +15,3 @@ Following files are containing necessary code: bikeshare.py
 
 Following files are not uploded to the remote repo (by using .gitignore) because the file size is too big: chicago.csv washington.csv new_york_city.csv
 
-# Credits
-The original repo this one is forked from can be found here: https://github.com/udacity/pdsnd_github.git
